@@ -1,0 +1,6 @@
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\obj\Debug\Restaurantee.csprojAssemblyReference.cache
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\bin\Debug\Restaurantee.exe.config
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\bin\Debug\Restaurantee.exe
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\bin\Debug\Restaurantee.pdb
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\obj\Debug\Restaurantee.exe
+C:\Users\formacio\source\repos\Restaurantee\Restaurantee\obj\Debug\Restaurantee.pdb
